@@ -1,0 +1,22 @@
+[06:22:07] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.2
+[06:22:07] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 25
+	- minecraft 1.21.11
+[06:22:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/E:/minecraft_server/Personal-Mod-Server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[06:22:12] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[06:22:13] [main/INFO]: No existing world data, creating new world
+[06:22:14] [main/INFO]: Loaded 1470 recipes
+[06:22:14] [main/INFO]: Loaded 1584 advancements
+[06:22:14] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[06:22:14] [Server thread/INFO]: Loading properties
+[06:22:14] [Server thread/INFO]: Default game type: SURVIVAL
+[06:22:14] [Server thread/INFO]: Generating keypair
+[06:22:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:22:14] [Server thread/INFO]: Preparing level "world"
+[06:22:14] [Server thread/INFO]: Selecting global world spawn...
+[06:22:18] [Server thread/INFO]: Loading 0 persistent chunks...
+[06:22:18] [Server thread/INFO]: Preparing spawn area: 100%
+[06:22:18] [Server thread/INFO]: Time elapsed: 4153 ms
+[06:22:18] [Server thread/INFO]: Done (4.407s)! For help, type "help"
