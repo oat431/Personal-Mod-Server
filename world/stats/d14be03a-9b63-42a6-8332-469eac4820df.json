@@ -1,15 +1,27 @@
 {
   "stats": {
     "minecraft:custom": {
-      "minecraft:sprint_one_cm": 286,
-      "minecraft:time_since_rest": 303,
-      "minecraft:walk_one_cm": 949,
-      "minecraft:total_world_time": 303,
-      "minecraft:leave_game": 1,
-      "minecraft:fly_one_cm": 988,
-      "minecraft:play_time": 303,
-      "minecraft:jump": 8,
-      "minecraft:time_since_death": 303
+      "minecraft:sprint_one_cm": 1937,
+      "minecraft:time_since_rest": 2410,
+      "minecraft:fall_one_cm": 1475,
+      "minecraft:walk_one_cm": 4565,
+      "minecraft:total_world_time": 2410,
+      "minecraft:leave_game": 2,
+      "minecraft:fly_one_cm": 8836,
+      "minecraft:damage_taken": 20,
+      "minecraft:play_time": 2410,
+      "minecraft:jump": 48,
+      "minecraft:time_since_death": 2410
+    },
+    "minecraft:used": {
+      "minecraft:dandelion": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:dandelion": 1
+    },
+    "minecraft:mined": {
+      "minecraft:wildflowers": 1,
+      "minecraft:dandelion": 1
     }
   },
   "DataVersion": 4671
