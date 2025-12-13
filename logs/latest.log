@@ -1,6 +1,7 @@
-[00:01:39] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.2
-[00:01:39] [main/INFO]: Loading 45 mods:
+[15:19:23] [main/INFO]: Loading Minecraft 1.21.11 with Fabric Loader 0.18.2
+[15:19:23] [main/INFO]: Loading 52 mods:
 	- appleskin 3.0.7+mc1.21.11
+	- collective 8.13
 	- fabric-api 0.139.5+1.21.11
 	   |-- fabric-api-base 1.0.5+4ebb5c083e
 	   |-- fabric-api-lookup-api-v1 1.6.113+1fb1cde93e
@@ -49,26 +50,57 @@
 	- notenoughanimations 1.11.1
 	   |-- transition 1.0.11
 	   \-- trender 1.0.10
-[00:01:39] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/mcadmin/Personal-Mod-Server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:01:39] [main/INFO]: Compatibility level set to JAVA_21
-[00:01:40] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[00:01:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[00:01:47] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
-[00:01:48] [main/INFO]: Loaded 1470 recipes
-[00:01:48] [main/INFO]: Loaded 1584 advancements
-[00:01:48] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.329 ms
-[00:01:48] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[00:01:48] [Server thread/INFO]: Loading properties
-[00:01:48] [Server thread/INFO]: Default game type: SURVIVAL
-[00:01:48] [Server thread/INFO]: Generating keypair
-[00:01:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:01:49] [Server thread/INFO]: Preparing level "world"
-[00:01:49] [Server thread/INFO]: Loading 0 persistent chunks...
-[00:01:49] [Server thread/INFO]: Preparing spawn area: 100%
-[00:01:49] [Server thread/INFO]: Time elapsed: 114 ms
-[00:01:49] [Server thread/INFO]: Done (0.532s)! For help, type "help"
-[00:02:32] [User Authenticator #1/INFO]: UUID of player oat431 is d14be03a-9b63-42a6-8332-469eac4820df
-[00:02:33] [Server thread/INFO]: oat431[/184.82.155.202:57142] logged in with entity id 113 at (17.204565838353556, 93.0, -1.3107508678713276)
-[00:02:33] [Server thread/INFO]: oat431 joined the game
-[00:04:18] [Server thread/INFO]: oat431 lost connection: Disconnected
-[00:04:18] [Server thread/INFO]: oat431 left the game
+	- oreharvester 1.5
+	- treeharvester 9.3
+	- viabackwards 5.6.0
+	- viafabric 0.4.21+128-main
+	   |-- cotton-client-commands 1.1.0+1.15.2
+	   |-- viafabric-mc12111 0.4.21+128-main
+	   \-- viaversion 5.6.0
+[15:19:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/mcadmin/Personal-Mod-Server/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:19:23] [main/INFO]: Compatibility level set to JAVA_21
+[15:19:24] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[15:19:31] [main/INFO]: Loading Collective version 8.13.
+[15:19:31] [Via-Mappingloader-1/INFO]: Loading block connection mappings ...
+[15:19:32] [Via-Mappingloader-1/INFO]: Using FastUtil Long2ObjectOpenHashMap for block connections
+[15:19:32] [main/INFO]: Loading translations...
+[15:19:32] [main/INFO]: Registering protocols...
+[15:19:32] [main/INFO]: ViaVersion detected server version: 1.21.11 (774)
+[15:19:32] [ViaFabric-2/INFO]: Finished mapping loading, shutting down loader executor.
+[15:19:32] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:19:32] [main/INFO]: Found new data pack collective, loading it automatically
+[15:19:34] [main/INFO]: Loaded 1470 recipes
+[15:19:34] [main/INFO]: Loaded 1584 advancements
+[15:19:34] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.016 ms
+[15:19:34] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[15:19:34] [Server thread/INFO]: Loading properties
+[15:19:34] [Server thread/INFO]: Default game type: SURVIVAL
+[15:19:34] [Server thread/INFO]: Generating keypair
+[15:19:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:19:35] [Server thread/INFO]: Preparing level "world"
+[15:19:35] [Server thread/INFO]: Loading 0 persistent chunks...
+[15:19:35] [Server thread/INFO]: Preparing spawn area: 100%
+[15:19:35] [Server thread/INFO]: Time elapsed: 84 ms
+[15:19:35] [Server thread/INFO]: Done (0.479s)! For help, type "help"
+[15:20:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:20:57] [User Authenticator #1/INFO]: UUID of player oat431 is d14be03a-9b63-42a6-8332-469eac4820df
+[15:20:58] [Server thread/INFO]: oat431[/184.82.155.202:60075] logged in with entity id 87 at (41.40537472995358, 99.0, -31.81383477805297)
+[15:20:59] [Server thread/INFO]: oat431 joined the game
+[15:22:37] [Server thread/INFO]: oat431 has made the advancement [Stone Age]
+[15:23:19] [Server thread/INFO]: oat431 has made the advancement [Getting an Upgrade]
+[15:24:39] [Server thread/INFO]: oat431 lost connection: Disconnected
+[15:24:39] [Server thread/INFO]: oat431 left the game
+[15:25:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:25:48] [Server thread/INFO]: Stopping the server
+[15:25:48] [Server thread/INFO]: ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[15:25:48] [Server thread/INFO]: Stopping server
+[15:25:48] [Server thread/INFO]: Saving players
+[15:25:48] [Server thread/INFO]: Saving worlds
+[15:25:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:25:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:25:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:25:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:25:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:25:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:25:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:25:48] [Server Shutdown Thread/INFO]: ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
