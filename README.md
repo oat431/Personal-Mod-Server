@@ -25,3 +25,16 @@ Now it on 1.21.11 Fabric server launcher
 `java -Xms4G -Xmx4G -jar server.jar --nogui`
 
 ## check out more fabric command [here](https://fabricmc.net/wiki/tutorial:commands)
+
+---
+
+# For Player that want to join the server
+
+install fabric mod below before joining the server
+
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+- [ModernFix](https://modrinth.com/mod/modernfix)
+- [Sodium](https://modrinth.com/mod/sodium)
+- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
+- [Better Third Person](https://modrinth.com/mod/better-third-person)
+- [Apple Skin](https://modrinth.com/mod/appleskin)
